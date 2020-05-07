@@ -39,9 +39,7 @@ excerpt_separator: <!-- more -->
 footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   email: mami12@163.com
-  facebook: caoxinlei@gmail.com
   github: caodadong 
-  instagram: caoxinlei@gmail.com
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
@@ -49,7 +47,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: © 2020 cao
+footer-text: © 2020 曹大董 caodadong.github.io
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
